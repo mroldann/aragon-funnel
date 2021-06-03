@@ -1,0 +1,10 @@
+Step number,Step Name,Drop-off %,Acc. Drop-off %,Remaining Users %,Remaining Users Count
+1,Landing,0.00,0.00,1.00,50000
+2,Create an organization (button),0.50,0.50,0.50,25000
+3,Connect Ethereum account (button),0.30,0.80,0.20,10000
+4,Select template (and enable Agent),0.05,0.85,0.15,7500
+5,Claim a name,0.01,0.86,0.15,7250
+6,Configure template (Voting),0.02,0.88,0.13,6250
+7,Configure template (Tokens),0.01,0.89,0.12,5750
+8,Review information,0.01,0.90,0.11,5250
+9,Launch organization,0.08,0.98,0.02,1250
